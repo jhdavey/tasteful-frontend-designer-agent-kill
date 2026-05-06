@@ -26,6 +26,16 @@ If your agent does not support skill files directly:
 3. Save the configuration.
 4. Start your frontend task and tell the agent to follow the `tasteful-frontend-designer` guidance.
 
+## Add To `AGENTS.md`
+
+If your workflow uses an `AGENTS.md` file, add this note:
+
+```md
+## Frontend Design Quality
+
+For any frontend, UI, UX, landing page, dashboard, form, app screen, or component work, use the `tasteful-frontend-designer` skill before implementing. Prioritize polished visual design, hierarchy, spacing, typography, responsive behavior, accessibility, and reusable components.
+```
+
 ## Example Setups
 
 ### Claude Projects
